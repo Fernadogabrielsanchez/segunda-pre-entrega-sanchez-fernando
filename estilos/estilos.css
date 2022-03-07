@@ -1,0 +1,27 @@
+
+ .slide {
+    margin-top: 20px;
+}
+
+.slide img {
+    height: 80vh;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.col-12{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img-fluid{
+    height: 250px;
+    width: 318px;
+}
+    
+
+
